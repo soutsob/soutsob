@@ -2076,6 +2076,11 @@ section.styled + .section-get-in-touch + section.styled {
     width: 1em
 }
 
+.icon-upwork {
+    font-size: 1.5rem;
+    width: 1em
+}
+
 .plyr-captions-off {
     font-size: 1.125rem;
     width: 1em
