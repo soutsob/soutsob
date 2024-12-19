@@ -1723,7 +1723,7 @@ section.styled + .section-get-in-touch + section.styled {
         bottom: auto;
         left: auto;
         z-index: -1;
-        background: url("resources/themes/theme/assets/img/dots/long.svg") no-repeat;
+        background: url("../img/dots/long.svg") no-repeat;
         background-size: cover
     }
 }
