@@ -2618,7 +2618,6 @@ img.mfp-img {
 }
 
 .social .icon-svg:hover {
-    fill: url(style.css@ver=1.9.8i.css);
     color: #3cd5af;
     opacity: 1
 }
