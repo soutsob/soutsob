@@ -3130,7 +3130,7 @@ div.wpcf7-mail-sent-ok {
 }
 
 .form-result-message__icon {
-    fill: url(style.css@ver=1.9.8i.css);
+    fill: url(style.css);
     color: #3cd5af;
     margin: 0 0 20px
 }

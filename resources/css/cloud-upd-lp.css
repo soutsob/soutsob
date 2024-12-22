@@ -684,7 +684,7 @@
 @media (max-width: 659px) {
     .cloud-schema .points .point.expanded .tit:after {
         content: "";
-        background-image: url(../../img/arrow-left.svg);
+        background-image: url(../img/arrow-left.svg);
         width: 8px;
         -webkit-filter: contrast(0.5);
         filter: contrast(0.5);
@@ -937,7 +937,7 @@
     width: 65px;
     height: 18px;
     margin: auto 0 0 auto;
-    background: url("../../img/arrow-gradient.svg") no-repeat
+    background: url("../img/arrow-gradient.svg") no-repeat
 }
 
 .technology-partnership .items .links {
@@ -1131,7 +1131,7 @@
         bottom: 100px;
         left: auto;
         z-index: -1;
-        background: url("../../img/dots/short.svg") no-repeat;
+        background: url("../img/dots/short.svg") no-repeat;
         background-size: cover
     }
 }
@@ -1275,7 +1275,7 @@
     height: 16px;
     right: 24px;
     bottom: 24px;
-    background: url("../../img/arrow-gradient.svg") no-repeat
+    background: url("../img/arrow-gradient.svg") no-repeat
 }
 
 .related .news .image-wrap {
@@ -1315,7 +1315,7 @@
 }
 
 .related.dark .news__item-inner:not(:hover) .news__item-link {
-    background: url("../../img/arrow-grey.svg") no-repeat
+    background: url("../img/arrow-grey.svg") no-repeat
 }
 
 .related.dark .news__item-inner:hover .content {

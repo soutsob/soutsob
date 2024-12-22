@@ -776,7 +776,7 @@
         display: block;
         width: 20px;
         height: 10px;
-        background: url('https://soutsob.com.ua/resources/themes/theme/assets/img/shevron-bottom.svg') no-repeat;
+        background: url('https://soutsob.com.ua/resources/img/shevron-bottom.svg') no-repeat;
         background-size: contain;
         background-position: center
     }
@@ -858,7 +858,7 @@
         margin-left: 12px;
         vertical-align: middle;
         line-height: 1;
-        content: url("resources/themes/theme/assets/img/arrow-short.svg")
+        content: url("resources/img/arrow-short.svg")
     }
 }
 
@@ -1251,7 +1251,7 @@
         margin-left: 12px;
         vertical-align: middle;
         line-height: 1;
-        content: url("resources/themes/theme/assets/img/arrow-short.svg")
+        content: url("resources/img/arrow-short.svg")
     }
 
     .submenu__inner-sidebar ul a {
@@ -2076,6 +2076,11 @@ section.styled + .section-get-in-touch + section.styled {
     width: 1em
 }
 
+.icon-upwork {
+    font-size: 1.5rem;
+    width: 1em
+}
+
 .plyr-captions-off {
     font-size: 1.125rem;
     width: 1em
@@ -2237,115 +2242,4 @@ img[data-object-fit=cover] {
 
 .mt-10 {
     margin-top: 10px !important
-}
-.logo-holder {
-    width: 360px;
-    position: relative;
-    margin: 0 auto ;
-    padding-top: 12px;
-    padding-bottom: 24px;
-    -webkit-transform: translateZ(0);
-}
-
-.bg {
-    position: absolute;
-    top: 9px;
-    left: 8px;
-    right: 8px;
-    bottom: 8px;
-
-    background-size: contain;
-    -webkit-filter: drop-shadow(0px 6px 25px rgba(0,0,0,0.5));
-}
-
-.bar {
-    position: relative;
-    height: 16px;
-    width:  0%;
-    top: 0px;
-    margin-top: 8px;
-    box-shadow: 0 0 3px rgba(192,192,192,0.9);
-    animation: fill 5s infinite alternate, colors 5s infinite alternate;
-}
-
-.bar.fill1 {
-    animation: fill-1 5s infinite alternate, colors 5s infinite alternate;
-}
-
-.bar.fill2 {
-    animation:  fill-2 5s infinite alternate, colors 5s infinite alternate;
-}
-
-
-.bar.fill3 {
-    animation:  fill-3 5s infinite alternate, colors 5s infinite alternate;
-}
-
-
-.bar.fill4 {
-    animation:  fill-4 5s infinite alternate, colors 5s infinite alternate;
-}
-
-.bar.fill5 {
-    animation:  fill-5 5s infinite alternate, colors 5s infinite alternate;
-}
-
-.bar.fill6 {
-    animation:  fill-6 5s infinite alternate, colors 5s infinite alternate;
-}
-
-@keyframes fill {
-    0%   { width: 0; }
-    33%  { width: 60px;}
-    66%  { width: 20px;}
-    100% { width: 205px; }
-}
-
-@keyframes fill-1 {
-    0%   { width: 0; }
-    33%  { width: 100px;}
-    66%  { width: 40px;}
-    100% { width: 260px; }
-}
-
-@keyframes fill-2 {
-    0%   { width: 0; }
-    33%  { width: 180px;}
-    66%  { width: 140px;}
-    100% { width: 272px; }
-}
-
-@keyframes fill-3 {
-    0%   { width: 0; }
-    33%  { width: 100px;}
-    66%  { width: 48;}
-    100% { width: 218px; }
-}
-
-@keyframes fill-4 {
-    0%   { width: 0; }
-    33%  { width: 196px;}
-    66%  { width: 68px;}
-    100% { width: 99px; }
-}
-
-@keyframes fill-5 {
-    0%   { width: 0; }
-    33%  { width: 30px;}
-    66%  { width: 10px;}
-    100% { width: 148px; }
-}
-
-
-@keyframes fill-6 {
-    0%   { width: 0; }
-    33%  { width: 48px;}
-    66%  { width: 22px;}
-    100% { width: 140px; }
-}
-
-@keyframes colors {
-    0% { background-color: #7bf2da;}
-    50% { background-color: #5DB6E1;}
-    100% { background-color: #B896FF;}
 }

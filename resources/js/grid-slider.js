@@ -28,5 +28,4 @@ $(function() {
             gridSlider.find('.items').slick('resize');
         });
     }
-
 });

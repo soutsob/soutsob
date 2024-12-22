@@ -693,7 +693,7 @@
     height: 16px;
     bottom: 32px;
     right: 16px;
-    background: url("../../img/arrow-short.svg") no-repeat;
+    background: url("../img/arrow-short.svg") no-repeat;
     -webkit-transition: .2s;
     -o-transition: .2s;
     transition: .2s;
@@ -838,7 +838,7 @@
     width: 65px;
     height: 16px;
     margin: 16px 0 0 auto;
-    background: url("../../img/arrow-gradient.svg") no-repeat
+    background: url("../img/arrow-gradient.svg") no-repeat
 }
 
 .left-icon-link a.item {
@@ -869,7 +869,7 @@
 }
 
 .left-icon-link.dark .item:not(:hover) .arrow {
-    background: url("../../img/arrow-grey.svg") no-repeat
+    background: url("../img/arrow-grey.svg") no-repeat
 }
 
 .left-icon-link.dark .item:hover .arrow {
@@ -886,7 +886,7 @@
 }
 
 .left-icon-link.mint_to_purple .item .arrow, .left-icon-link.blue_to_green .item .arrow {
-    background: url("../../img/arrow-grey.svg") no-repeat
+    background: url("../img/arrow-grey.svg") no-repeat
 }
 
 .three-col-icon-link {
@@ -942,7 +942,7 @@
         bottom: 25px;
         left: auto;
         z-index: -1;
-        background: url("../../img/dots/horizontal.svg") no-repeat;
+        background: url("../img/dots/horizontal.svg") no-repeat;
         background-size: cover
     }
 }
@@ -968,7 +968,7 @@
     margin: 32px 0 0 auto;
     width: 65px;
     height: 16px;
-    background: url("../../img/arrow-gradient.svg") no-repeat
+    background: url("../img/arrow-gradient.svg") no-repeat
 }
 
 .three-col-icon-link a.item:before {
@@ -1036,7 +1036,7 @@
 }
 
 .three-col-icon-link.dark a.item:not(:hover) .arrow {
-    background: url("../../img/arrow-grey.svg") no-repeat
+    background: url("../img/arrow-grey.svg") no-repeat
 }
 
 .three-col-icon-link.dark a.item:hover .arrow {
@@ -1049,7 +1049,7 @@
 }
 
 .three-col-icon-link.mint_to_purple .item .arrow, .three-col-icon-link.blue_to_green .item .arrow {
-    background: url("../../img/arrow-grey.svg") no-repeat
+    background: url("../img/arrow-grey.svg") no-repeat
 }
 
 .awards-section {
