@@ -2248,7 +2248,7 @@ img[data-object-fit=cover] {
 }
 
 .bg {
-    position: absolute;
+    /*position: absolute;*/
     top: 9px;
     left: 8px;
     right: 8px;
